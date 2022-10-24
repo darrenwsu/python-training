@@ -9,6 +9,3 @@ is_married = False
 
 print(name)
 print(age)
-
-number = input('> ')
-print(number)
