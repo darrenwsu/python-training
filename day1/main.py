@@ -8,4 +8,5 @@ age = 23
 is_married = False
 
 print(name)
-print(age)
+# print(age)
+ 
